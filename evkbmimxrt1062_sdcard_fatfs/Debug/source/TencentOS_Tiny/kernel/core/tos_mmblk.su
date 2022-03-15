@@ -1,0 +1,13 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:182:31:knl_object_verify	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:187:32:knl_object_init	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:192:32:knl_object_deinit	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:204:32:knl_object_alloc_set_dynamic	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:209:32:knl_object_alloc_set_static	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:214:31:knl_object_alloc_is_dynamic	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:219:31:knl_object_alloc_is_static	0	static
+../source/TencentOS_Tiny/kernel/core/tos_mmblk.c:20:17:tos_mmblk_pool_create	24	static
+../source/TencentOS_Tiny/kernel/core/tos_mmblk.c:59:17:tos_mmblk_pool_destroy	16	static
+../source/TencentOS_Tiny/kernel/core/tos_mmblk.c:83:17:tos_mmblk_pool_create_dyn	24	static
+../source/TencentOS_Tiny/kernel/core/tos_mmblk.c:133:17:tos_mmblk_pool_destroy_dyn	16	static
+../source/TencentOS_Tiny/kernel/core/tos_mmblk.c:158:17:tos_mmblk_alloc	16	static
+../source/TencentOS_Tiny/kernel/core/tos_mmblk.c:178:17:tos_mmblk_free	16	static

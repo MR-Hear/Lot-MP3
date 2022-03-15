@@ -1,0 +1,3 @@
+../source/TencentOS_Tiny/arch/risc-v/spike/gcc/riscv_port_c.c:20:15:port_cpu_init	0	static
+../source/TencentOS_Tiny/arch/risc-v/spike/gcc/riscv_port_c.c:24:15:port_systick_priority_set	0	static
+../source/TencentOS_Tiny/arch/risc-v/spike/gcc/riscv_port_c.c:30:16:port_get_irq_vector_table	0	static

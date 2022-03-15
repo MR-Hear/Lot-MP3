@@ -1,0 +1,13 @@
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:22:18:tos_cpu_clz	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:61:14:tos_cpu_int_disable	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:66:14:tos_cpu_int_enable	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:71:20:tos_cpu_cpsr_save	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:76:14:tos_cpu_cpsr_restore	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:81:14:cpu_init	0	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:86:14:cpu_reset	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:91:14:cpu_sched_start	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:96:14:cpu_context_switch	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:101:14:cpu_irq_context_switch	0	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:106:14:cpu_systick_init	8	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:192:20:cpu_task_stk_init	0	static
+../source/TencentOS_Tiny/arch/msp430/common/tos_cpu.c:276:17:cpu_task_stack_draught_depth	8	static

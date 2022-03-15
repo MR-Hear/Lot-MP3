@@ -1,0 +1,6 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\CMSIS/core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\CMSIS/core_cm7.h:2156:34:__NVIC_SystemReset	4	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\CMSIS/core_cm7.h:2629:26:SysTick_Config	8	static
+../source/TencentOS_Tiny/arch/arm/arm-v7m/cortex-m7/gcc/port_c.c:29:15:port_cpu_reset	8	static
+../source/TencentOS_Tiny/arch/arm/arm-v7m/cortex-m7/gcc/port_c.c:34:15:port_systick_config	8	static
+../source/TencentOS_Tiny/arch/arm/arm-v7m/cortex-m7/gcc/port_c.c:39:15:port_systick_priority_set	8	static

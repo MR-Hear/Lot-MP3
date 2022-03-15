@@ -1,0 +1,5 @@
+../source/sdcard_fatfs.c:63:6:SysTick_Handler	8	static
+../source/sdcard_fatfs.c:83:6:task1_entry	600	static
+../source/sdcard_fatfs.c:215:6:task2_entry	8	static
+../source/sdcard_fatfs.c:226:5:main	24	static
+../source/sdcard_fatfs.c:254:17:sdcardWaitCardInsert	16	static

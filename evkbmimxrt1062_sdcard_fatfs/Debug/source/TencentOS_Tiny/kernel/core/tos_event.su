@@ -1,0 +1,10 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:182:31:knl_object_verify	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:187:32:knl_object_init	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:192:32:knl_object_deinit	0	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:22:17:tos_event_create	8	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:33:17:tos_event_destroy	24	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:56:16:event_is_match	0	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:72:17:tos_event_pend	40	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:125:20:event_do_post	24	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:159:17:tos_event_post	8	static
+../source/TencentOS_Tiny/kernel/core/tos_event.c:164:17:tos_event_post_keep	8	static

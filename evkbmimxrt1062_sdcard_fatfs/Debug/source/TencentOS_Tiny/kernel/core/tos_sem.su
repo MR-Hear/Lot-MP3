@@ -1,0 +1,15 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:182:31:knl_object_verify	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:187:32:knl_object_init	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:192:32:knl_object_deinit	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:204:32:knl_object_alloc_set_dynamic	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:209:32:knl_object_alloc_set_static	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:214:31:knl_object_alloc_is_dynamic	0	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:22:17:tos_sem_create_max	8	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:41:17:tos_sem_create	8	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:46:17:tos_sem_create_max_dyn	24	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:75:17:tos_sem_create_dyn	8	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:80:17:tos_sem_destroy	16	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:106:20:sem_do_post	24	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:134:17:tos_sem_post	8	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:139:17:tos_sem_post_all	8	static
+../source/TencentOS_Tiny/kernel/core/tos_sem.c:144:17:tos_sem_pend	24	static

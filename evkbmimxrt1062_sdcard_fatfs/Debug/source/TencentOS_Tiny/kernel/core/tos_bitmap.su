@@ -1,0 +1,11 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:182:31:knl_object_verify	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:187:32:knl_object_init	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:192:32:knl_object_deinit	0	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:20:17:tos_bitmap_create_empty	8	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:39:17:tos_bitmap_create_full	8	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:58:17:tos_bitmap_destroy	8	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:67:17:tos_bitmap_set	16	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:81:17:tos_bitmap_reset	16	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:95:13:tos_bitmap_is_set	16	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:107:13:tos_bitmap_is_reset	16	static
+../source/TencentOS_Tiny/kernel/core/tos_bitmap.c:119:13:tos_bitmap_lsb	16	static

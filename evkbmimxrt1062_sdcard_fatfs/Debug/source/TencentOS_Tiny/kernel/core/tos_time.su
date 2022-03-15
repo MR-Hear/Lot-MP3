@@ -1,0 +1,7 @@
+../source/TencentOS_Tiny/kernel/core/tos_time.c:20:18:tos_systick_get	16	static
+../source/TencentOS_Tiny/kernel/core/tos_time.c:31:14:tos_systick_set	16	static
+../source/TencentOS_Tiny/kernel/core/tos_time.c:40:18:tos_tick2millisec	0	static
+../source/TencentOS_Tiny/kernel/core/tos_time.c:45:18:tos_millisec2tick	0	static
+../source/TencentOS_Tiny/kernel/core/tos_time.c:50:17:tos_sleep_ms	8	static
+../source/TencentOS_Tiny/kernel/core/tos_time.c:55:28:time_hmsm2tick	16	static
+../source/TencentOS_Tiny/kernel/core/tos_time.c:62:17:tos_sleep_hmsm	8	static

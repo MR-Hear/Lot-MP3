@@ -1,0 +1,12 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:182:31:knl_object_verify	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:187:32:knl_object_init	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:192:32:knl_object_deinit	0	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:20:17:tos_stopwatch_create	8	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:30:17:tos_stopwatch_destroy	8	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:41:17:tos_stopwatch_countdown	16	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:54:17:tos_stopwatch_countdown_ms	16	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:65:14:tos_stopwatch_delay	24	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:75:14:tos_stopwatch_delay_ms	8	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:83:18:tos_stopwatch_remain	8	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:98:18:tos_stopwatch_remain_ms	8	static
+../source/TencentOS_Tiny/kernel/core/tos_stopwatch.c:113:13:tos_stopwatch_is_expired	8	static

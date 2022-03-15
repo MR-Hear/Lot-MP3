@@ -1,0 +1,8 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\CMSIS/mpu_armv7.h:191:22:ARM_MPU_Enable	16	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\CMSIS/mpu_armv7.h:203:22:ARM_MPU_Disable	4	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1164:24:CLOCK_GetMux	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1201:24:CLOCK_GetDiv	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1262:24:CLOCK_GetOscFreq	0	static
+../board/board.c:24:10:BOARD_DebugConsoleSrcFreq	8	static
+../board/board.c:43:6:BOARD_InitDebugConsole	8	static
+../board/board.c:235:6:BOARD_ConfigMPU	24	static

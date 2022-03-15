@@ -1,0 +1,7 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	4	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1212:20:CLOCK_ControlGate	8	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1229:20:CLOCK_EnableClock	8	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_iomuxc.h:1270:20:IOMUXC_SetPinMux	4	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_iomuxc.h:1302:20:IOMUXC_SetPinConfig	0	static
+../board/pin_mux.c:34:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:74:6:BOARD_InitPins	48	static

@@ -1,0 +1,8 @@
+../drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	4	static
+../drivers/fsl_clock.h:1212:20:CLOCK_ControlGate	8	static
+../drivers/fsl_clock.h:1229:20:CLOCK_EnableClock	8	static
+../drivers/fsl_gpio.h:242:20:GPIO_SetPinInterruptConfig	8	static
+../drivers/fsl_gpio.c:44:17:GPIO_GetInstance	8	static
+../drivers/fsl_gpio.c:71:6:GPIO_PinInit	24	static
+../drivers/fsl_gpio.c:111:6:GPIO_PinWrite	8	static
+../drivers/fsl_gpio.c:140:6:GPIO_PinSetInterruptConfig	4	static

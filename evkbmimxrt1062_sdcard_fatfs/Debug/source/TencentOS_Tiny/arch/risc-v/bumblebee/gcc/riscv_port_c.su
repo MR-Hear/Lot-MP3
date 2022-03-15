@@ -1,0 +1,10 @@
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:39:16:eclic_get_clic_int_ctl_bits	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:46:16:eclic_get_nlbits	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:58:16:eclic_get_intctrl	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:62:16:eclic_set_intctrl	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:67:13:eclic_enable_interrupt	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:71:13:eclic_set_irq_level	24	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:87:13:eclic_set_irq_priority	24	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:111:15:port_cpu_init	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:129:15:port_systick_priority_set	16	static
+../source/TencentOS_Tiny/arch/risc-v/bumblebee/gcc/riscv_port_c.c:134:16:port_get_irq_vector_table	16	static

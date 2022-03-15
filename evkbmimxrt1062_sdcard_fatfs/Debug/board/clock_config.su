@@ -1,0 +1,13 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_common_arm.h:210:20:_SDK_AtomicLocalClearAndSet4Byte	4	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1138:20:CLOCK_SetMux	16	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1176:20:CLOCK_SetDiv	16	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1212:20:CLOCK_ControlGate	8	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1239:20:CLOCK_DisableClock	8	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1379:20:CLOCK_SetXtalFreq	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1389:20:CLOCK_SetRtcXtalFreq	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_clock.h:1446:20:CLOCK_SetPllBypass	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_iomuxc.h:1322:20:IOMUXC_EnableMode	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_iomuxc.h:1345:20:IOMUXC_SetSaiMClkClockSource	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\drivers/fsl_iomuxc.h:1405:20:IOMUXC_MQSConfig	4	static
+../board/clock_config.c:49:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:178:6:BOARD_BootClockRUN	8	static

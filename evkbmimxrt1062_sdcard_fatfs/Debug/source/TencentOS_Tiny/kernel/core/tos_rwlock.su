@@ -1,0 +1,14 @@
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:182:31:knl_object_verify	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:187:32:knl_object_init	0	static
+F:\NXP_TencentOS\evkbmimxrt1062_sdcard_fatfs\source\TencentOS_Tiny\kernel\core\include/tos_sys.h:192:32:knl_object_deinit	0	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:22:17:tos_rwlock_create	16	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:47:17:tos_rwlock_destroy	16	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:69:17:tos_rwlock_rpend_timed	48	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:126:17:tos_rwlock_rpend	8	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:131:17:tos_rwlock_rpend_try	16	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:160:17:tos_rwlock_wpend_timed	40	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:221:17:tos_rwlock_wpend	8	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:226:17:tos_rwlock_wpend_try	16	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:250:17:tos_rwlock_rpost	16	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:275:17:tos_rwlock_wpost	16	static
+../source/TencentOS_Tiny/kernel/core/tos_rwlock.c:298:17:tos_rwlock_post	16	static
